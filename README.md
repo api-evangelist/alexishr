@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Alexis is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://alexishr.com/
+AlexisHR offers an AI‑powered all‑in‑one HR platform that simplifies people operations, boosts productivity, and provides instant HR access via a chatbot. The solution reduces administrative overhead, improves employee experience, and streamlines tasks such as performance reviews, onboarding, and time‑off management.
+
+**Areas:** People Analytics · Payroll · AI Chatbot · Integrations · Onboarding · Performance Management · User Provisioning
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://alexishr.com/)
+- [Documentation](https://docs.alexishr.com/)
+- [API reference](https://docs.simployer.com/)
+- [Pricing](https://alexishr.com/pricing)
+- [Blog](https://alexishr.com/resources/blog)
+- [Terms of service](https://alexishr.com/resources/compliance/terms-conditions)
+- [Privacy policy](https://alexishr.com/resources/compliance/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/alexishr/](https://apis.io/providers/alexishr/).
